@@ -1,0 +1,86 @@
+
+.h1, .h3{
+
+    font-family: 'Cinzel', serif;
+    color:#abaca8;
+}
+p, a, .body_text{
+    font-family: 'Marcellus', serif;
+
+}
+
+.h3{
+    color:#abaca8;
+}
+
+.ptag{
+     color:#abaca8;
+}
+
+
+.nav-link:hover{
+    text-color:#a83d1d;
+}
+
+.page_bg{
+    background-color: black;
+    background-size: contain;
+    background-position: -25px -100px;
+    /* background-color: #000000; */
+    
+}
+
+.col-sm-10{
+    color:#880610
+}
+.bg_color{
+    background-color: #880610;
+}
+.bg_color:hover{
+    opacity: 1;
+}
+
+
+.skull_img{
+    background-image: url(../imgs/skull.jpg);
+    background-size: cover;
+    height: 600px;
+    background-position: 0px -90px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.shy_bg{
+    background-image: url(../imgs/shy_Background.png);
+    height: 200px;
+    background-attachment: fixed;
+    background-position-x: 10px;
+    background-size: cover;
+    opacity: .8;
+    z-index: -1;
+    
+}
+
+.shy_bg:hover{
+    opacity: 1;
+
+}
+
+.about{
+    height: 100px;
+}
+
+ul{
+    list-style: none;
+}
+
+.footer_color{
+    background-color: #e5d4ba;
+    height:150px;
+}
+
+.border{
+    padding: 3px 3px;
+    background-color: black;
+}
